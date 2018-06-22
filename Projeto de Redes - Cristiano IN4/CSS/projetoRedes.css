@@ -1,0 +1,105 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+	color: forestgreen;
+}
+
+a {
+	color: #339933;
+}
+
+a:hover {
+	color: #267326;
+}
+
+.andar {
+	font-size: 18px;
+	color: #009933;
+}
+
+thead {
+	font-size: 22px;
+}
+
+tbody {
+	font-size: 18px;
+}
+
+.totais {
+	background-color: #333333;
+	color: white;
+}
+
+.totais-andares {
+	background-color: #666666;
+	color: white;
+}
+
+.andar-tabela-cabos {
+	background-color: #333333;
+	color: white;
+	width: 100%;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.pontos-andar {
+	background-color: #666666;
+	color: white;
+	width: 100%;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.hr-maior {
+	border: 2px solid #333333;
+}
+
+.fa-calendar, .fa-calculator, .fa-area-chart, .fa-code, .fa-credit-card, .fa-gears {
+	font-size: 48px;
+}
+
+#vs {
+	font-size: 22px;
+	font-weight: bold;
+	color: forestgreen;
+}
+
+.separador-tabelas {
+	font-size: 28px;
+	font-family: verdana;
+	font-weight: bold;
+}
+
+#menu-titulo {
+	color: white;
+}
+
+#menu {
+	padding-bottom: 0px;
+}
+
+a.nav-link {
+	font-weight: bold;
+}
+
+.nav-tabs {
+	border: 0;
+}
+
+.obs {
+	text-align: justify;
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+.sub-table-title {
+	font-size: 18px;
+}
+
+.sub-table-item {
+	font-size: 14px;
+}
